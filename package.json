@@ -1,0 +1,14 @@
+{
+  "name": "fotoland-gallery",
+  "version": "1.0.0",
+  "description": "Fotoland is an image gallery built with Bootstrap, Jquery and Sass.",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/ --recursive"
+  },
+  "author": "Ajas Sharafudeen",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
